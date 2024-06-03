@@ -1,7 +1,8 @@
 # GNN-Primer
 small implementations collection
 ## Notebooks
-1. [Basics](./Basics.ipynb): covers data handling, datasets, loader and transforms in PyG.
+1. [PyG Basics](./PyG%20Basics.ipynb): covers data handling, datasets, loader and transforms in PyG.
+2. [GNN Model Basics](./GNN%20Model%20Basics.ipynb): 
 
 
 ## Resources
